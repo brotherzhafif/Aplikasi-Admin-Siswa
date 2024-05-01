@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.vbproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.Admin_Nav.resources
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.Login.resources
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.Resources.resources
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.Verifikasi_siswa.resources
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.vbproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.vbproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\bin\Debug\Ngetes_Admin.exe.config
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\bin\Debug\Ngetes_Admin.exe
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\bin\Debug\Ngetes_Admin.pdb
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\bin\Debug\Ngetes_Admin.xml
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.exe
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.xml
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.pdb
+C:\Users\User\Documents\Visual Basic Project\Ngetes_Admin\obj\Debug\Ngetes_Admin.data_siswa.resources
